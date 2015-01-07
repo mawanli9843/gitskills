@@ -6,3 +6,5 @@ Creating a new branch is quick & simple!
 
 add merge
 
+it is to be stash
+
